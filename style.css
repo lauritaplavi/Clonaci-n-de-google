@@ -104,6 +104,7 @@ main .main-input-container:hover{
 main .main-input .serch-icon{
     background-image: url(https://img.icons8.com/android/24/000000/search.png);
     background-repeat: no-repeat;
+    background-position: center;
     background-size: contain;
     width:18px ;
     height:18px ;
